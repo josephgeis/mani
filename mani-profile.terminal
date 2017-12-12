@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundColor</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECYw
+	Ljk5NjA3ODQ5MTIgMC45NTY4NjI4MDczIDAuNjExNzY0NzI5ABACgALSEBESE1okY2xh
+	c3NuYW1lWCRjbGFzc2VzV05TQ29sb3KiEhRYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2
+	ZXLRFxhUcm9vdIABCBEaIy0yNztBSE5bYouNj5SfqLCzvM7R1gAAAAAAAAEBAAAAAAAA
+	ABkAAAAAAAAAAAAAAAAAAADY
+	</data>
+	<key>CommandString</key>
+	<string>/usr/local/bin/mani</string>
+	<key>Font</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKQHCBESVSRudWxs1AkKCwwNDg8QVk5TU2l6ZVhOU2ZGbGFnc1ZOU05hbWVWJGNs
+	YXNzI0AmAAAAAAAAEBCAAoADXU1lbmxvLVJlZ3VsYXLSExQVFlokY2xhc3NuYW1lWCRj
+	bGFzc2VzVk5TRm9udKIVF1hOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEaG1Ryb290
+	gAEIERojLTI3PEJLUltiaXJ0dniGi5afpqmyxMfMAAAAAAAAAQEAAAAAAAAAHAAAAAAA
+	AAAAAAAAAAAAAM4=
+	</data>
+	<key>FontAntialias</key>
+	<true/>
+	<key>FontWidthSpacing</key>
+	<real>1.004032258064516</real>
+	<key>ProfileCurrentVersion</key>
+	<real>2.04</real>
+	<key>RunCommandAsShell</key>
+	<true/>
+	<key>ShouldRestoreContent</key>
+	<false/>
+	<key>ShowActiveProcessInTabTitle</key>
+	<false/>
+	<key>ShowActiveProcessInTitle</key>
+	<false/>
+	<key>ShowDimensionsInTitle</key>
+	<true/>
+	<key>ShowRepresentedURLInTabTitle</key>
+	<false/>
+	<key>ShowRepresentedURLInTitle</key>
+	<false/>
+	<key>WindowTitle</key>
+	<string>mani - The Interactive Man Pages</string>
+	<key>name</key>
+	<string>Interactive Man Pages</string>
+	<key>rowCount</key>
+	<integer>48</integer>
+	<key>scrollOnInput</key>
+	<false/>
+	<key>shellExitAction</key>
+	<integer>1</integer>
+	<key>type</key>
+	<string>Window Settings</string>
+	<key>warnOnShellCloseAction</key>
+	<integer>0</integer>
+</dict>
+</plist>
