@@ -1,0 +1,2 @@
+# mani
+Interactive manpage shell
