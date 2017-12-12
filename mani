@@ -1,0 +1,39 @@
+#!/usr/bin/env python
+from os import system
+import signal
+import sys
+print "Man Interactive by Joseph Geis (@juniorRubyist)"
+print "mani v0.1-beta\n"
+print "Type ;exit or C-d to quit."
+
+
+def break_handler(x, y):
+    print "\nBye."
+    sys.exit(0)
+
+
+def cc_handler(x, y):
+    print "\nmani> ",
+
+
+signal.signal(signal.SIGINT, cc_handler)
+signal.signal(signal.SIGQUIT, break_handler)
+
+
+while True:
+    try:
+        page = raw_input("mani> ")
+    except EOFError as e:
+        print "\nBye."
+        sys.exit(0)
+
+    if page == ";exit":
+        print "Bye."
+        break
+    elif page == "exit":
+        system("man %s" % page)
+        print "Remember, to leave mani, type ;exit."
+    elif page != "":
+        system("man %s" % page)
+    else:
+        pass
