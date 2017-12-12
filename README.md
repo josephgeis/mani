@@ -1,5 +1,5 @@
 # `mani`
-The Interactive Man Pages
+The Interactive Man Pages Shell
 
 ## Contents
 * [Installation](https://github.com/juniorRubyist/mani#installation)
